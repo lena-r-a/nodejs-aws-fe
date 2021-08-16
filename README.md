@@ -1,3 +1,7 @@
+S3 URL: http://my-fourth-rs-appl.s3-website-eu-west-1.amazonaws.com/
+CloudFront URL: https://my-fourth-rs-appl.s3-eu-west-1.amazonaws.com/index.html
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
