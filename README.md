@@ -1,6 +1,8 @@
 
+
 s3 url: http://my-fourth-rs-appl.s3-website-eu-west-1.amazonaws.com/
 CloudFront URL: https://d358wtc00y3b7d.cloudfront.net/
+
 
 
 
