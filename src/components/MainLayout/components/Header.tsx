@@ -21,6 +21,9 @@ const useStyles = makeStyles((theme: Theme) =>
     title: {
       flexGrow: 1,
     },
+    header: {
+      backgroundColor: "green",
+    },
     homeLink: {
       color: 'white',
       textDecoration: 'none'
@@ -44,9 +47,9 @@ export default function Header() {
 
   return (
     <AppBar position="relative">
-      <Toolbar>
+      <Toolbar className={classes.header}>
         <Typography variant="h6" className={classes.title}>
-          <Link className={classes.homeLink} to="/">My Store!</Link>
+          <Link className={classes.homeLink} to="/">K-pop Store!</Link>
         </Typography>
 
         {auth && (
